@@ -48,4 +48,4 @@ src="https://docs.google.com/spreadsheets/d/1JfzceDuKyyqN9GbBA9ieT7Sfyun9dxz9tgl
 
 
 
-![[public/z_Attachments/Faerun_Map.png]]
+![[z_Attachments/Faerun_Map.png]]
