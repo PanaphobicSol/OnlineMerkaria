@@ -1,0 +1,1 @@
+The primary pantheon of the Prime Material Plane is divided first into four groups, representative of the [[Celestial Bodies|four suns]] of Merkaria.
