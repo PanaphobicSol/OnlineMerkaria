@@ -2,9 +2,9 @@
 
 ### Images
 
-![[content/z_Attachments/Yugoloth-Historic.webp]]
-![[content/z_Attachments/Yugoloth-Examples.webp]]
-![[content/z_Attachments/Yugoloth-Arcanaloth.webp]]
+![[Yugoloth-Historic.webp]]
+![[Yugoloth-Examples.webp]]
+![[Yugoloth-Arcanaloth.webp]]
 
 ### Info
 | | | 
