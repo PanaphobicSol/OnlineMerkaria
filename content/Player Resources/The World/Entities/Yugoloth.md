@@ -14,7 +14,6 @@
 | Alignment | [Neutral evil](https://forgottenrealms.fandom.com/wiki/Neutral_evil "Neutral evil") |
 | Diet | Carnivore |
 | Homeland(s) | [Acheron](https://forgottenrealms.fandom.com/wiki/Acheron "Acheron"), [Carceri](https://forgottenrealms.fandom.com/wiki/Carceri "Carceri"), [Gehenna](https://forgottenrealms.fandom.com/wiki/Gehenna "Gehenna"), [Hades](https://forgottenrealms.fandom.com/wiki/Hades "Hades")
- |
 | Language(s) | [Abyssal](https://forgottenrealms.fandom.com/wiki/Abyssal_language "Abyssal language"), [Draconic](https://forgottenrealms.fandom.com/wiki/Draconic_language "Draconic language"), [Infernal](https://forgottenrealms.fandom.com/wiki/Infernal_language "Infernal language"), [telepathy](https://forgottenrealms.fandom.com/wiki/Telepathy "Telepathy")
  |
 
