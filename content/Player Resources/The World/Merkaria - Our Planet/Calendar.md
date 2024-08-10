@@ -6,18 +6,18 @@ Each month is associated with one of [[Merkaria|Merkaria's]] [[The Twelve Moons|
 
 |Month |Season | Sect| Element|
 |---|---|---|---|
-|March| [[Renewal]]| Renaissance|
-|April| [[Renewal]]| Blooming|
-|May| [[Renewal]]| Maia (earth and growth)|
-|June| [[Plenty]]| Juno (marriage and birth)|
-|July|[[Plenty]]| Commendation|
-|August| [[Plenty]]| Augustus|
-|September| [[Decline]]| Vulcan/Lakshmi (preparation and finding your way home, balancing the scales for upcoming Libra)|
-|October| [[Decline]]| Winmonath (wine month)|
-|November| [[Decline]]| Jupiter (last month of worship)|
-|December| [[Slumber]]| Sharp Winds|
-|January| [[Slumber]]| Last Rights|
-|February| [[Slumber]]| Cleansing|
+|March| [[Renewal]]| Renaissance| Water|
+|April| [[Renewal]]| Blooming| Earth
+|May| [[Renewal]]| Sowing| Wood|
+|June| [[Plenty]]| Juno (marriage and birth)| Wood|
+|July|[[Plenty]]| Reverence| Earth
+|August| [[Plenty]]| Commendation| Fire|
+|September| [[Decline]]|  (preparation and finding your way home, balancing the scales for upcoming Libra)| Fire|
+|October| [[Decline]]| Reaping| Earth
+|November| [[Decline]]| Testimony| Metal|
+|December| [[Slumber]]| Sharp Winds| Metal|
+|January| [[Slumber]]| Last Rights| Earth
+|February| [[Slumber]]| Cleansing| Water|
 |[[Godless]]| | |
 
 

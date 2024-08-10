@@ -7,6 +7,6 @@ List and descriptions of its months and sects.
 A return to business after the rest of [[Slumber]] and trepidations of [[Godless]]. This is the month of reigniting projects, campaigns, and ambitions. Gods aligned with this season include: Mars
 ### April - Blooming (C)
 The month in which flowers blossom in the wake of the return of sunlight. Named after the word "Aperio" or "To Open". It is also the time in which people first unwind after the stress of the past four months, which may result in some altercations. Gods aligned with this season include: Persephone
-### May - (N)
+### May - Sowing (N)
 
-Gods aligned with this season include: 
+Gods aligned with this season include: Maia, Lathander, Atroa, Chauntea
