@@ -7,7 +7,7 @@ Each month is associated with one of [[Merkaria|Merkaria's]] [[The Twelve Moons|
 |Month |Season | Sect| Element|
 |---|---|---|---|
 |March| [[Renewal]]| Renaissance|
-|April| [[Renewal]]| Bloom|
+|April| [[Renewal]]| Blooming|
 |May| [[Renewal]]| Maia (earth and growth)|
 |June| [[Plenty]]| Juno (marriage and birth)|
 |July|[[Plenty]]| Commendation|
