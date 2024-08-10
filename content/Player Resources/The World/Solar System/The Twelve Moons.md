@@ -1,3 +1,8 @@
-Each of the [[The Four Suns|four suns]] has three moons in orbit around it, waiting to follow [[Merkaria]] as their season begins.
+Each of the [[The Four Suns|four suns]] has three moons in orbit around it, waiting to follow [[Merkaria]] as their season begins. When Merkaria enters the orbit of a new sun, its three moons will intercept and orbit around Merkaria for the next three months. Then when Merkaria leaves that season, the moons will stay behind and wait for the next year.
 
 This page will contain an overview of each moon's domains, alignment, and associated gods.
+
+
+### Mechanical Overview
+The three moons of each sun are locked in their own orbit around each other first, and around Merkaria second. Every month, one of the moon's cycles approaches its fullest state and moves closest to Merkaria, indicating which of [[The Pantheon|the pantheon's]] sects hold the greatest power over that third of a season. As such, the moons and months are named after one another, allowing citizens to easily tell which sect exerts the greatest influence over them at any given time.
+Additionally, every year Merkaria's orbit around each of the four suns coincides with an eclipse. In other words, there are four eclipses a year, with one occurring every season. The same moon will not be eclipsed two years in a row and a moon cannot be eclipsed again until every moon of that season has had its turn. Meaning that each of the twelve moons has an eclipse once every three years. It is believed that during an eclipse, the sect of gods associated with that moon are at the absolute height of their power and influence. This is further reinforced by the appearance of [[Incarnations]] during such events.

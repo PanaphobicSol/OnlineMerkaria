@@ -2,6 +2,26 @@ You will recognize the Merkarian Calendar as being nearly identical to our own: 
 
 Each month is associated with one of [[Merkaria|Merkaria's]] [[The Twelve Moons|moons]]. Holidays in Merkaria can occur on specific dates or take place [[The Pantheon and its Seasons|seasonally]] to celebrate events or strongly associated deities. They can also be the unwelcome occurrence during the [[Godless]] season every four years.
 
+### Months
+
+|Month |Season | Sect|
+|---|---|---|
+|March| [[Renewal]]| Renaissance|
+|April| [[Renewal]]| Aperio (to open)|
+|May| [[Renewal]]| Maia (earth and growth)|
+|June| [[Plenty]]| Juno (marriage and birth)|
+|July|[[Plenty]]| Julius Caesar|
+|August| [[Plenty]]| Augustus|
+|September| [[Decline]]| Libra/Vulcan/Lakshmi (preparation and finding your way home)|
+|October| [[Decline]]| Winmonath (wine month)|
+|November| [[Decline]]| Jupiter (last month of worship)|
+|December| [[Slumber]]| Boreas/Mithra/Sol Invictis (beginning of winter, bolstering your resolve for the days without sun)|
+|January| [[Slumber]]| Janus (beginnings and endings)(get your house in order to close out the year and begin again)|
+|February| [[Slumber]]| Cleansing|
+|[[Godless]]| | |
+
+
+### Holidays
 
 |Holiday |Date | 
 |---|---|
