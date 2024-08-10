@@ -26,6 +26,4 @@ The day of the year in which gods of trickery, chaos, and all forms of pranks or
 
 ### Godless Solstice - The 1st Godless Day through The 5th Godless Day
 
-### The 1st Godless Day - The 5th Godless Day
-
 ### Lost Day - The 6th Godless Day
