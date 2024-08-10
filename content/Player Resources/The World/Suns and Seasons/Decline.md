@@ -3,9 +3,12 @@ The season of Autumn.
 List and descriptions of its months and sects.
 
 
-### September -  
+### September -  (L)
 
-### October -
+Gods aligned with this season include: 
+### October - (C)
 
-### November -
+Gods aligned with this season include: 
+### November - (N)
 
+Gods aligned with this season include: 
