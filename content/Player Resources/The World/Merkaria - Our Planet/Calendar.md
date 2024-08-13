@@ -6,15 +6,15 @@ Each month is associated with one of [[Merkaria|Merkaria's]] [[The Twelve Moons|
 
 |Month |Season | Sect| Element|
 |---|---|---|---|
-|March| [[Renewal]]| Renaissance| Water|
+|March| [[Renewal]]| Resolution| Water|
 |April| [[Renewal]]| Blooming| Earth
 |May| [[Renewal]]| Sowing| Wood|
-|June| [[Plenty]]| Juno (marriage and birth)| Wood|
+|June| [[Plenty]]| Arrangement| Wood|
 |July|[[Plenty]]| Reverence| Earth
 |August| [[Plenty]]| Commendation| Fire|
-|September| [[Decline]]|  (preparation and finding your way home, balancing the scales for upcoming Libra)| Fire|
+|September| [[Decline]]|  Assembly| Fire|
 |October| [[Decline]]| Reaping| Earth
-|November| [[Decline]]| Testimony| Metal|
+|November| [[Decline]]| Remembrance| Metal|
 |December| [[Slumber]]| Sharp Winds| Metal|
 |January| [[Slumber]]| Last Rights| Earth
 |February| [[Slumber]]| Cleansing| Water|
