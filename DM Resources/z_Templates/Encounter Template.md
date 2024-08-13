@@ -31,3 +31,7 @@ width = 100%
 padding = 0 0  
 margins = 0 0  
 src="https://docs.google.com/spreadsheets/d/1JfzceDuKyyqN9GbBA9ieT7Sfyun9dxz9tglJwxAU2LQ/edit?usp=sharing"></iframe>
+
+
+
+![[Faerun Map.png]]

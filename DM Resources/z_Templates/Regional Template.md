@@ -47,5 +47,3 @@ src="https://docs.google.com/spreadsheets/d/1JfzceDuKyyqN9GbBA9ieT7Sfyun9dxz9tgl
 
 
 
-
-![[Faerun_Map.png]]
