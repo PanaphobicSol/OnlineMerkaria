@@ -1,4 +1,4 @@
-The primary pantheon of the Prime Material Plane is divided first into four groups, representative of the [[Celestial Bodies|four suns]] of Merkaria. Each group shares traits with the season their sun is associated with, but some gods may be members of multiple sects and even seasons.
+The primary pantheon of the Prime Material Plane is divided first into four groups, representative of the [[Celestial Bodies|four suns]] of Merkaria. Each group shares traits with the season their sun is associated with, but some gods may be members of multiple sects and even seasons. For more details on the sects themselves, see [[Seasons, Sects, and Suns]].
 
 ## Renewal
 The sun of Spring. A time of celebration after the worst time of the year. Projects, ambitions, campaigns, and life resume, new life begins its cycle, and the grace of the gods returns. with the blessing of like minded gods such as Mars, Lathander, Maia, and Atroa.

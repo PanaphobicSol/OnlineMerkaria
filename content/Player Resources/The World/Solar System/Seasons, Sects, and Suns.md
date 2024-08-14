@@ -1,6 +1,6 @@
 Each sun of Merkaria represents an aspect of its Gods of Merkaria, operating in tandem with the change in seasons. The seasons each last 90 days
 and are Spring, Summer, Autumn, and Winter. The suns associated with each season are Renewal, Plenty, Decline, and Slumber, respectively. In fact, some cultures use the names of the suns and seasons interchangeably. 
-Each sun contains within its orbit three moons, named after the section, or sect, of the pantheon that has greatest influence over the month in which that moon is closest to [[Merkaria]].
+Each sun contains within its orbit three moons, named after the section, or sect, of the pantheon that has greatest influence over the month in which that moon is closest to [[Merkaria]]. Each of the [[Political Overview|twelve countries]] that have divided up Merkaria corresponds to one of these sects as well, indicating, to some degree, their general belief systems and cultures as well as the month in which they are most powerful.
 Additionally, the end of a year is marked by a five day period of night between Slumber/Winter and Renewal/Spring. This period is noted for being largely disconnected from both the gods and their seasons, a time lacking in joy, comfort, and daylight for the duration. This "godless season" is referred to by names such as: The Bleak, The Eerie, and The Yugoloths' Hunt. Every four years, this "season" lasts for six days instead of five, believed to be a way for the gods to challenge mortals and remind them that even one extra day without them can be horrific. 
 
 
