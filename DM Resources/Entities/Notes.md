@@ -14,4 +14,4 @@ Possible Monthly Bonuses
 |December| | 
 |January| | 
 |February| |
-|[[Godless]]| Disadvantage on all ability checks|
+|Godless| Disadvantage on all ability checks|

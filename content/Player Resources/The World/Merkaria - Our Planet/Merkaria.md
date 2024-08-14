@@ -7,6 +7,6 @@ This past century, however, has been marked by near constant conflict. From gran
 
 
 ### Topography
-Merkaria is split into five primary land masses, two oceans, and its glacial belt.
+Merkaria's land is split between twelve countries, outlined in [[Political Overview]].
 
 ![[Merkaria-WorldMap.webp]]
