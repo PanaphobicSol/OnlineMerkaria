@@ -1,10 +1,13 @@
-This page will contain a brief overview of the four suns and the characteristics of the seasons and gods related to them.
+Each sun of Merkaria represents an aspect of its Gods of Merkaria, operating in tandem with the change in seasons. The seasons each last 90 days
+and are Spring, Summer, Autumn, and Winter. The suns associated with each season are Renewal, Plenty, Decline, and Slumber, respectively. In fact, some cultures use the names of the suns and seasons interchangeably. 
+Each sun contains within its orbit three moons, named after the section, or sect, of the pantheon that has greatest influence over the month in which that moon is closest to [[Merkaria]].
+Additionally, the end of a year is marked by a five day period of night between Slumber/Winter and Renewal/Spring. This period is noted for being largely disconnected from both the gods and their seasons, a time lacking in joy, comfort, and daylight for the duration. This "godless season" is referred to by names such as: The Bleak, The Eerie, and The Yugoloths' Hunt. Every four years, this "season" lasts for six days instead of five, believed to be a way for the gods to challenge mortals and remind them that even one extra day without them can be horrific. 
 
 
 ## Renewal
 The sun of Spring. A time of celebration after the worst time of the year. Projects, ambitions, campaigns, and life resume, new life begins its cycle, and the grace of the gods returns. with the blessing of like minded gods such as Mars, Lathander, Maia, and Atroa.
 #### March -  Resolution (L)
-Also known as: Renaissance. A return to business after the rest of [[Slumber]] and trepidations of [[Godless]]. This is the month of reigniting projects, campaigns, and ambitions. Gods aligned with this season include: Mars
+Also known as: Renaissance. A return to business after the rest of Slumber and trepidations of Godless. This is the month of reigniting projects, campaigns, and ambitions. Gods aligned with this season include: Mars
 #### April - Blooming (C)
 Also known as: TBA. The month in which flowers blossom in the wake of the return of sunlight. Named after the word "Aperio" or "To Open". It is also the time in which people first unwind after the stress of the past four months, which may result in some altercations. Gods aligned with this season include: Persephone
 #### May - Sowing (N)
