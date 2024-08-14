@@ -5,7 +5,7 @@ Below are the holidays of [[Merkaria]] and their associated gods, seasons, or se
 Celebrated as the beginning of an year on Merkaria. Often the busiest time of year and everyone balances celebration with resuming their work.
 
 ### Spring Equinox - March 1st
-The first day of the year when the sun of Renewal is first seen and both day and night are in balance.
+The first day of the year when the sun of Renewal is first seen. The days and nights are in perfect balance to start off the year.
 
 ### Fools' Fortune - April 1st
 The day of the year in which gods of trickery, chaos, and all forms of pranks or japes encourage citizens to be more light hearted and unwind after the stress of beginning a new year. Pranks however often get out of hand and have unintended consequences which may result in financial, social, or ecological set backs. Especially if any higher beings decide to get involved. Gods help you if April's Incarnation appears this year.
@@ -17,14 +17,14 @@ The day in which the worst offenders of Fools' Fortune face their comeuppance. A
 The longest day of the year.
 
 ### Autumn Equinox - September 1st
-
+The first day of Decline is marked with a return to a balanced day and night, marking the time of year when everything becomes a fight against the clock.
 ### Festival of the Lost - October 15th through November 1st
-
+A celebration to make light of the rapidly approaching end of the year. Imitations of the horrors that exist in the darkness are used to assuage fears of what's actually waiting for you.
 ### Winter Solstice - December 1st
 The longest night of the year.
 
 ### Candle Nights - December 12th through January 12th
-A cherished time of year spent 
+A cherished time of year spent celebrating loved ones, often filled with gifts of praise, service, or material value.
 ### Crimson Days - February 10th through February 14th
 
 ### [[Godless Solstice]] - The 1st Godless Day through The 5th Godless Day
