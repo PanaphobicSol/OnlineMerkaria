@@ -6,19 +6,19 @@ Each month is associated with one of [[Merkaria|Merkaria's]] [[The Twelve Moons|
 
 |Month |Season | Sect| Element|
 |---|---|---|---|
-|March| [[Renewal]]| Resolution| Water|
-|April| [[Renewal]]| Blooming| Earth
-|May| [[Renewal]]| Sowing| Wood|
-|June| [[Plenty]]| Arrangement| Wood|
-|July|[[Plenty]]| Reverence| Earth
-|August| [[Plenty]]| Commendation| Fire|
-|September| [[Decline]]|  Assembly| Fire|
-|October| [[Decline]]| Reaping| Earth
-|November| [[Decline]]| Remembrance| Metal|
-|December| [[Slumber]]| Sharp Winds| Metal|
-|January| [[Slumber]]| Last Rights| Earth
-|February| [[Slumber]]| Cleansing| Water|
-|[[Godless]]| | |
+|March| Renewal| Resolution| Water|
+|April| Renewal| Blooming| Earth
+|May| Renewal| Sowing| Wood|
+|June| Plenty| Arrangement| Wood|
+|July| Plenty| Reverence| Earth
+|August| Plenty| Commendation| Fire|
+|September| Decline|  Assembly| Fire|
+|October| Decline| Reaping| Earth
+|November| Decline| Remembrance| Metal|
+|December| Slumber| Sharp Winds| Metal|
+|January| Slumber| Last Rights| Earth
+|February| Slumber| Cleansing| Water|
+|Godless| | |
 
 
 ### Holidays

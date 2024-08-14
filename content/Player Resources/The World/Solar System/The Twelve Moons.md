@@ -1,4 +1,4 @@
-Each of the [[The Four Suns|four suns]] has three moons in orbit around it, waiting to follow [[Merkaria]] as their season begins. When Merkaria enters the orbit of a new sun, its three moons will intercept and orbit around Merkaria for the next three months. Then when Merkaria leaves that season, the moons will stay behind and wait for the next year.
+Each of the [[Suns and Seasons|four suns]] has three moons in orbit around it, waiting to follow [[Merkaria]] as their season begins. When Merkaria enters the orbit of a new sun, its three moons will intercept and orbit around Merkaria for the next three months. Then when Merkaria leaves that season, the moons will stay behind and wait for the next year.
 
 This page will contain an overview of each moon's domains, alignment, and associated gods.
 
