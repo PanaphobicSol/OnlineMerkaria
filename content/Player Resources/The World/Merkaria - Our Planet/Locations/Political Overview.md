@@ -1,0 +1,1 @@
+Each sect of [[Merkaria|Merkaria's]] pantheon is also the primary influence for one of the world's twelve main political powers, outlined below.
