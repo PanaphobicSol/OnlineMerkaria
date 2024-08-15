@@ -7,7 +7,7 @@ This past century, however, has been marked by near constant conflict. From gran
 
 
 ## Topography
-Merkaria's land is split between twelve countries, outlined in [[Regions Overview]].
+Merkaria's land is split between twelve countries.
 
 ![[Merkaria-WorldMap.webp]]
 
