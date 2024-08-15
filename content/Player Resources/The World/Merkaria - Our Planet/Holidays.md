@@ -27,7 +27,7 @@ The longest night of the year.
 A cherished time of year spent celebrating loved ones, often filled with gifts of praise, service, or material value.
 ### Crimson Days - February 10th through February 14th
 
-### [[Godless Solstice]] - The 1st Godless Day through The 5th Godless Day
+### Godless Solstice - The 1st Godless Day through The 5th Godless Day
 The five days at the end of a year in which Merkaria has no moons in its orbit and little to no ambient light.
 
 ### Lost Day - The 6th Godless Day
