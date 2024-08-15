@@ -29,7 +29,8 @@ TBD
 TBD
 #### September -  Assembly (L)
 A Theocracy whose land is split across the entirety of Merkaria's surface. Rather than amass all of their resources in a single location, they have settled across the vast sea to ensure their "home" is always a only a short trip away.
-Originating in the North Western
+Originating in the North-Western Hemisphere, the inhabitants of Assembly have spread out through the years into a series of settlements, caravans, flotillas, and camp grounds all over the world, many of which exist outside the bounds of their legal borders but are Assembly in spirit. Of course, the land which is theirs officially has sprawling cities created as the bastions of their people, welcoming home any of their citizens regardless of origin. 
+Each of the main segments of Assembly is organized and ran by the largest church in the area, supported by the smaller churches around it.
 #### October - Reaping (C)
 TBD
 #### November - Remembrance (N)
