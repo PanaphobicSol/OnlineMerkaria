@@ -18,7 +18,7 @@ Each sect of Merkaria's pantheon is also the primary influence for one of the wo
 #### March -  Resolution (L)
 TBD
 #### April - Blooming (C)
-TBD
+The country Grandma Stinky was raised in. Her coven and the surrounding region was full of toxic pleasantries and condescension towards anything else. Their concern with appearances resulted in a lack of expansion and many losses.
 #### May - Sowing (N)
 TBD
 #### June -  Arrangement (N)
@@ -31,6 +31,8 @@ TBD
 A Theocracy whose land is split across the entirety of Merkaria's surface. Rather than amass all of their resources in a single location, they have settled across the vast sea to ensure their "home" is always a only a short trip away.
 Originating in the North-Western Hemisphere, the inhabitants of Assembly have spread out through the years into a series of settlements, caravans, flotillas, and camp grounds all over the world, many of which exist outside the bounds of their legal borders but are Assembly in spirit. Of course, the land which is theirs officially has sprawling cities created as the bastions of their people, welcoming home any of their citizens regardless of origin. 
 Each of the main segments of Assembly is organized and ran by the largest church in the area, supported by the smaller churches around it.
+
+An unofficial fiefdom of Assembly includes Tink's home town, deep in the oceanic trenches. The light from the surface barely reaches the homes above the thermal vents.
 #### October - Reaping (C)
 TBD
 #### November - Remembrance (N)
