@@ -9,10 +9,10 @@ The sun of Spring. A time of celebration after the worst time of the year. Proje
 #### March -  Resolution (L)
 Also known as: Renaissance. A return to business after the rest of Slumber and trepidations of Godless. This is the month of reigniting projects, campaigns, and ambitions. Gods aligned with this season include: Mars
 #### April - Blooming (C)
-Also known as: TBA. The month in which flowers blossom in the wake of the return of sunlight. Named after the word "Aperio" or "To Open". It is also the time in which people first unwind after the stress of the past four months, which may result in some altercations. Gods aligned with this season include: Persephone
+Also known as: TBA. The month in which flowers blossom in the wake of the return of sunlight. Named after the word "Aperio" or "To Open". It is also the time in which people first unwind after the stress of the past four months, which may result in some altercations. Gods aligned with this season include: Persephone, Chauntea
 #### May - Sowing (N)
 Also known as: TBA. 
-Gods aligned with this season include: Maia, Lathander, Atroa, Chauntea
+Gods aligned with this season include: Maia, Lathander, Atroa, Silvanus
 ## Plenty
 The sun of Summer.
 #### June -  Arrangement (N)
