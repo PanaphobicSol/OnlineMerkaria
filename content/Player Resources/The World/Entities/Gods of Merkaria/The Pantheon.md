@@ -11,24 +11,24 @@ Gods aligned with this season include: Maia, Lathander, Atroa, Chauntea
 ## Plenty
 The sun of Summer.
 #### June -  Arrangement (N)
-Gods aligned with this season include: Juno
+Gods aligned with this season include: Juno, Shiallia
 #### July - Reverence (L)
-Gods aligned with this season include: Amaunator, Athena, and Demeter.
+Gods aligned with this season include: Amaunator, Athena, Demeter, Aba
 #### August - Commendation (C)
 Gods aligned with this season include: Silvanus, Neptune
 ## Decline
 The sun of Autumn.
 #### September -  Assembly (L)
-Gods aligned with this season include: Vulcan, Lakshmi
+Gods aligned with this season include: Vulcan, Lakshmi, Moradin, Gond, Kuyutha, Cyrrollalee, Hestia, Boldrei, Caoimhin, Yondalla, Garrakg
 #### October - Reaping (C)
 Gods aligned with this season include: Bacchus
 #### November - Remembrance (N)
-Gods aligned with this season include: Jupiter
+Gods aligned with this season include: Jupiter, Nignadora
 ## Slumber
 The sun of Winter.
 #### December -  Sharp Winds (C)
-Gods aligned with this season include: Boreas, Mithra, Sol Invictis
+Gods aligned with this season include: Boreas, Mithra, Sol Invictis, Nephthys
 #### January - Last Rights (L)
-Gods aligned with this season include: Janus, Demeter
+Gods aligned with this season include: Janus, Demeter, Ilmater
 #### February - Cleansing (N)
 Gods aligned with this season include: 
