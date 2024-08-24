@@ -18,7 +18,7 @@ Each sect of Merkaria's pantheon is also the primary influence for one of the wo
 #### March -  Resolution (L)
 TBD
 #### April - Blooming (C)
-The country Grandma Stinky was raised in. Her coven and the surrounding region was full of toxic pleasantries and condescension towards anything else. Their concern with appearances resulted in a lack of expansion and many losses.
+The Caperic Barony. The country Grandma Stinky was raised in. Her coven and the surrounding region was full of toxic pleasantries and condescension towards anything else. Their concern with appearances resulted in a lack of expansion and many losses.
 #### May - Sowing (N)
 TBD
 #### June -  Arrangement (N)
