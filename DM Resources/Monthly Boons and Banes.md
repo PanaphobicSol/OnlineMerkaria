@@ -5,6 +5,7 @@ Possible Monthly Bonuses
 -Press the Advantage: Move up to half your speed after reducing a creature to 0 hit points
 -Return to Form: When reduced to 0 hit points, gain one successful death save immediately
 -Refreshed: All forms of healing restore an additional 1d6 health
+-Prepared: Add your proficiency to the first initiative roll you make each day
 #### April - Blooming (C)
 -Groundwork: The first roll made each day to prepare for a later event is made with advantage
 #### May - Sowing (N)
