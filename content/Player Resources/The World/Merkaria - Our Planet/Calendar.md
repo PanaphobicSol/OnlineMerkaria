@@ -1,4 +1,4 @@
-You will recognize the Merkarian Calendar as being nearly identical to our own: 365 days split between [[Seasons, Sects, and Suns|four seasons]] and further into twelve months. Every month has exactly thirty days and the New Year is recognized as taking place on March 1st. This is due to the fact that there is a fifth, [[Godless|pseudo-season]] lasting five days after December 30th, and gaining a sixth "lost day" once every four years.
+You will recognize the Merkarian Calendar as being nearly identical to our own: 365 days split between [[Seasons, Sects, and Suns|four seasons]] and further into twelve months. Every month has exactly thirty days and the New Year is recognized as taking place on March 1st. This is due to the fact that there is a fifth, pseudo-season lasting five days after December 30th, and gaining a sixth "lost day" once every four years.
 
 Each month is associated with one of [[Merkaria|Merkaria's]] [[The Twelve Moons|moons]]. Holidays in Merkaria can occur on specific dates or take place seasonally to celebrate events or strongly associated deities. They can also be the unwelcome occurrence during the Godless season every four years.
 
