@@ -17,7 +17,7 @@ Merkaria's land is split between twelve countries.
 Each sect of Merkaria's pantheon is also the primary influence for one of the world's twelve main political powers, outlined below. For more details on the sects themselves, see [[Seasons, Sects, and Suns]].
 
 #### March -  Resolution (L)
-The primary nation aligned with Resolution is [[Horizon's Heart1]]. League. The port city of Parabellum is the current capital, and the campaign will start near the city of Sable. The capital city changes based on trade and need, but the name "Parabellum" is awarded to the whichever is the current capital.
+The primary nation aligned with Resolution is [[Horizon's Heart]]. League. The port city of Parabellum is the current capital, and the campaign will start near the city of Sable. The capital city changes based on trade and need, but the name "Parabellum" is awarded to the whichever is the current capital.
 #### April - Blooming (C)
 The primary nation aligned with Blooming are [[The Caperic Baronies]]. Viceroyalty. The country Grandma Stinky was raised in. Her coven and the surrounding region was full of toxic pleasantries and condescension towards anything else. Their concern with appearances resulted in a lack of expansion and many losses.
 #### May - Sowing (N)
